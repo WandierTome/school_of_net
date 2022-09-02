@@ -1,2 +1,3 @@
 Olá mundo!!
 Bricando com o git, alterado...
+Bricando com o git, fazendo clones ealterações..
